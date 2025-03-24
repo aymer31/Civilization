@@ -64,16 +64,16 @@ def Mod():
         
     
 def PvP():
-    create_map()
+    create_map(game_map)
     playing_PvP()
     
     
 def AI_Fight():
-    create_map()
+    create_map(game_map)
     playing_Ai_Fight()
     
 def AI_AI():
-    create_map()
+    create_map(game_map)
     playing_Ai_Ai()
     
         
@@ -154,14 +154,10 @@ def build():
         
     elif choice == "2":
         print("Building farm...")
-        if 0 <= choice_x < len(game_map) and 0 <= choice_y < len(game_map[0]):
-            ajouter_farm(choice_x, choice_y, game_map, build)
-        else:
-            print("Invalid location, please try again.")
         choice_x = int(input("longueur: "))
         choice_y = int(input("largeur: "))
         if 0 <= choice_x < len(game_map) and 0 <= choice_y < len(game_map[0]):
-            ajouter_barrack(choice_x, choice_y, game_map, build)
+            ajouter_farm(choice_x, choice_y, game_map, build)
         else:
             print("Invalid location, please try again.")
     elif choice == "3":
@@ -179,7 +175,7 @@ def New_game():
     
 def Load_game():
     print("Loading game...")
-    create_map()
+    create_map(game_map)
 
 def start_game():
     global start

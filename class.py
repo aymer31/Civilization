@@ -12,10 +12,12 @@ class Player:
         
         
 class Building:
-    def __init__(self, name, x, y):
+    def __init__(self, name, x, y, health, level):
         self.name = name
         self.x = x
         self.y = y
+        self.health = health
+        self.level = level
         
     def build(self):
         print(f'{self.name} is building')
@@ -32,16 +34,23 @@ class Building:
         return f'{self.name} is at {self.x} and {self.y}'
     
     
+    
+class Townhall(Building):
+    def __init__(self, name, x, y, health, capacity, level):
+        super().__init__(name, x, y, health, level)
+        self.capacity = capacity
+        
+    
 class House(Building):
-    def __init__(self, name, x, y, rooms):
-        super().__init__(name, x, y)
-        self.rooms = rooms
+    def __init__(self, name, x, y, health, level):
+        super().__init__(name, x, y, health)
+        self.rooms = level
     
 
 
 class Barrack(Building):
-    def __init__(self, name, x, y, capacity):
-        super().__init__(name, x, y)
+    def __init__(self, name, x, y, capacity, health, level):
+        super().__init__(name, x, y, health, level)
         self.capacity = capacity
         
         
