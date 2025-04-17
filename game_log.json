@@ -1,0 +1,2117 @@
+[
+  {
+    "id_action": 1,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:16:38.925284",
+    "player": "IA_1",
+    "action": "Build",
+    "details": "Barrack at (1, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 2,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:16:39.002996",
+    "player": "IA_1",
+    "action": "Build",
+    "details": "Farm at (1, 5)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 3,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:16:39.111542",
+    "player": "IA_1",
+    "action": "Build",
+    "details": "House at (1, 6)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 4,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:16:39.219420",
+    "player": "IA_1",
+    "action": "End Turn",
+    "details": "IA_1 ended their turn",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 5,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:17:00.063938",
+    "player": "IA_2",
+    "action": "Build",
+    "details": "Barrack at (7, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 6,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:17:00.132779",
+    "player": "IA_2",
+    "action": "Build",
+    "details": "Farm at (7, 5)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 7,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:17:00.224772",
+    "player": "IA_2",
+    "action": "Build",
+    "details": "House at (7, 6)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 8,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:17:00.308150",
+    "player": "IA_2",
+    "action": "End Turn",
+    "details": "IA_2 ended their turn",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 9,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:17:20.806296",
+    "player": "IA_1",
+    "action": "Generate Unit",
+    "details": "Warrior at (2, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 10,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:17:20.878312",
+    "player": "IA_1",
+    "action": "Moved Unit",
+    "details": "Warrior at (3, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 11,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:17:20.969280",
+    "player": "IA_1",
+    "action": "End Turn",
+    "details": "IA_1 ended their turn",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 12,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:17:38.161672",
+    "player": "IA_2",
+    "action": "Generate Unit",
+    "details": "Warrior at (8, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 13,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:17:38.230629",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Warrior at (8, 3)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 14,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:17:38.320527",
+    "player": "IA_2",
+    "action": "End Turn",
+    "details": "IA_2 ended their turn",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 15,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:17:53.876886",
+    "player": "IA_1",
+    "action": "Generate Unit",
+    "details": "Archer at (2, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 16,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:17:53.957256",
+    "player": "IA_1",
+    "action": "Moved Unit",
+    "details": "Warrior at (4, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 17,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:17:54.056081",
+    "player": "IA_1",
+    "action": "Moved Unit",
+    "details": "Archer at (3, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 18,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:17:54.138886",
+    "player": "IA_1",
+    "action": "End Turn",
+    "details": "IA_1 ended their turn",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 19,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:18:08.079562",
+    "player": "IA_2",
+    "action": "Generate Unit",
+    "details": "Archer at (8, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 20,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:18:08.149360",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Warrior at (7, 3)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 21,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:18:08.229912",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Archer at (8, 3)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 22,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:18:08.314947",
+    "player": "IA_2",
+    "action": "End Turn",
+    "details": "IA_2 ended their turn",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 23,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:18:21.055424",
+    "player": "IA_1",
+    "action": "Generate Unit",
+    "details": "Warrior at (2, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 24,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:18:21.127389",
+    "player": "IA_1",
+    "action": "Moved Unit",
+    "details": "Warrior at (5, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 25,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:18:21.208596",
+    "player": "IA_1",
+    "action": "Moved Unit",
+    "details": "Archer at (4, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 26,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:18:21.289945",
+    "player": "IA_1",
+    "action": "Moved Unit",
+    "details": "Warrior at (3, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 27,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:18:21.370621",
+    "player": "IA_1",
+    "action": "End Turn",
+    "details": "IA_1 ended their turn",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 28,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:18:32.622990",
+    "player": "IA_2",
+    "action": "Generate Unit",
+    "details": "Warrior at (8, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 29,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:18:32.692667",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Warrior at (6, 3)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 30,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:18:32.800512",
+    "player": "IA_2",
+    "action": "Attacked",
+    "details": "Archer attacked Warrior at (5, 4)",
+    "destinatiare": "Warrior"
+  },
+  {
+    "id_action": 31,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:18:32.890219",
+    "player": "IA_2",
+    "action": "Destroyed",
+    "details": "Archer destroyed Warrior at (5, 4)",
+    "destinatiare": "Warrior"
+  },
+  {
+    "id_action": 32,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:18:32.978165",
+    "player": "IA_2",
+    "action": "End Turn",
+    "details": "IA_2 ended their turn",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 33,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:18:46.514687",
+    "player": "IA_1",
+    "action": "Generate Unit",
+    "details": "Warrior at (2, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 34,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:18:46.585995",
+    "player": "IA_1",
+    "action": "Attacked",
+    "details": "Archer attacked Warrior at (6, 3)",
+    "destinatiare": "Warrior"
+  },
+  {
+    "id_action": 35,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:18:46.675896",
+    "player": "IA_1",
+    "action": "Destroyed",
+    "details": "Archer destroyed Warrior at (6, 3)",
+    "destinatiare": "Warrior"
+  },
+  {
+    "id_action": 36,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:18:46.771674",
+    "player": "IA_1",
+    "action": "Moved Unit",
+    "details": "Warrior at (3, 5)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 37,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:18:46.852234",
+    "player": "IA_1",
+    "action": "Moved Unit",
+    "details": "Warrior at (3, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 38,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:18:46.945705",
+    "player": "IA_1",
+    "action": "End Turn",
+    "details": "IA_1 ended their turn",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 39,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:18:58.504227",
+    "player": "IA_2",
+    "action": "Generate Unit",
+    "details": "Archer at (9, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 40,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:18:58.577725",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Archer at (7, 3)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 41,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:18:58.665379",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Warrior at (8, 3)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 42,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:18:58.759818",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Archer at (8, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 43,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:18:58.850738",
+    "player": "IA_2",
+    "action": "End Turn",
+    "details": "IA_2 ended their turn",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 44,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:19:09.300815",
+    "player": "IA_1",
+    "action": "Generate Unit",
+    "details": "Warrior at (2, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 45,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:19:09.370789",
+    "player": "IA_1",
+    "action": "Attacked",
+    "details": "Archer attacked Archer at (7, 3)",
+    "destinatiare": "Archer"
+  },
+  {
+    "id_action": 46,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:19:09.468595",
+    "player": "IA_1",
+    "action": "Destroyed",
+    "details": "Archer destroyed Archer at (7, 3)",
+    "destinatiare": "Archer"
+  },
+  {
+    "id_action": 47,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:19:09.553424",
+    "player": "IA_1",
+    "action": "Moved Unit",
+    "details": "Warrior at (4, 5)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 48,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:19:09.655438",
+    "player": "IA_1",
+    "action": "Moved Unit",
+    "details": "Warrior at (3, 5)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 49,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:19:09.753694",
+    "player": "IA_1",
+    "action": "Moved Unit",
+    "details": "Warrior at (3, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 50,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:19:09.846996",
+    "player": "IA_1",
+    "action": "End Turn",
+    "details": "IA_1 ended their turn",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 51,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:19:20.248255",
+    "player": "IA_2",
+    "action": "Generate Unit",
+    "details": "Warrior at (9, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 52,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:19:20.321854",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Warrior at (7, 3)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 53,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:19:20.407072",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Archer at (8, 3)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 54,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:19:20.490100",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Warrior at (8, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 55,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:19:20.575120",
+    "player": "IA_2",
+    "action": "End Turn",
+    "details": "IA_2 ended their turn",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 56,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:19:29.801899",
+    "player": "IA_1",
+    "action": "Generate Unit",
+    "details": "Archer at (2, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 57,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:19:29.877429",
+    "player": "IA_1",
+    "action": "Attacked",
+    "details": "Archer attacked Warrior at (7, 3)",
+    "destinatiare": "Warrior"
+  },
+  {
+    "id_action": 58,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:19:29.967099",
+    "player": "IA_1",
+    "action": "Destroyed",
+    "details": "Archer destroyed Warrior at (7, 3)",
+    "destinatiare": "Warrior"
+  },
+  {
+    "id_action": 59,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:19:30.078784",
+    "player": "IA_1",
+    "action": "Moved Unit",
+    "details": "Warrior at (5, 5)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 60,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:19:30.194072",
+    "player": "IA_1",
+    "action": "Moved Unit",
+    "details": "Warrior at (4, 5)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 61,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:19:30.278194",
+    "player": "IA_1",
+    "action": "Moved Unit",
+    "details": "Warrior at (3, 5)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 62,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:19:30.370565",
+    "player": "IA_1",
+    "action": "Moved Unit",
+    "details": "Archer at (3, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 63,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:19:30.463552",
+    "player": "IA_1",
+    "action": "End Turn",
+    "details": "IA_1 ended their turn",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 64,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:19:39.996890",
+    "player": "IA_2",
+    "action": "Generate Unit",
+    "details": "Archer at (9, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 65,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:19:40.075436",
+    "player": "IA_2",
+    "action": "Attacked",
+    "details": "Archer attacked Warrior at (5, 5)",
+    "destinatiare": "Warrior"
+  },
+  {
+    "id_action": 66,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:19:40.169039",
+    "player": "IA_2",
+    "action": "Destroyed",
+    "details": "Archer destroyed Warrior at (5, 5)",
+    "destinatiare": "Warrior"
+  },
+  {
+    "id_action": 67,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:19:40.253617",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Archer at (9, 5)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 68,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:19:40.339812",
+    "player": "IA_2",
+    "action": "End Turn",
+    "details": "IA_2 ended their turn",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 69,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:19:49.863000",
+    "player": "IA_1",
+    "action": "Generate Unit",
+    "details": "Warrior at (2, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 70,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:19:49.946979",
+    "player": "IA_1",
+    "action": "Moved Unit",
+    "details": "Archer at (5, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 71,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:19:50.041435",
+    "player": "IA_1",
+    "action": "Moved Unit",
+    "details": "Warrior at (5, 5)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 72,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:19:50.134203",
+    "player": "IA_1",
+    "action": "Moved Unit",
+    "details": "Warrior at (4, 5)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 73,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:19:50.219317",
+    "player": "IA_1",
+    "action": "Moved Unit",
+    "details": "Archer at (4, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 74,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:19:50.306086",
+    "player": "IA_1",
+    "action": "Moved Unit",
+    "details": "Warrior at (3, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 75,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:19:50.388872",
+    "player": "IA_1",
+    "action": "End Turn",
+    "details": "IA_1 ended their turn",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 76,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:19:59.047083",
+    "player": "IA_2",
+    "action": "Generate Unit",
+    "details": "Archer at (9, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 77,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:19:59.123508",
+    "player": "IA_2",
+    "action": "Attacked",
+    "details": "Archer attacked Archer at (5, 4)",
+    "destinatiare": "Archer"
+  },
+  {
+    "id_action": 78,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:19:59.243788",
+    "player": "IA_2",
+    "action": "Destroyed",
+    "details": "Archer destroyed Archer at (5, 4)",
+    "destinatiare": "Archer"
+  },
+  {
+    "id_action": 79,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:19:59.337842",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Archer at (9, 6)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 80,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:19:59.439051",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Archer at (9, 5)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 81,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:19:59.544988",
+    "player": "IA_2",
+    "action": "End Turn",
+    "details": "IA_2 ended their turn",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 82,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:20:08.388103",
+    "player": "IA_1",
+    "action": "Generate Unit",
+    "details": "Warrior at (2, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 83,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:20:08.471907",
+    "player": "IA_1",
+    "action": "Moved Unit",
+    "details": "Warrior at (6, 5)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 84,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:20:08.564667",
+    "player": "IA_1",
+    "action": "Moved Unit",
+    "details": "Warrior at (5, 5)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 85,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:20:08.651501",
+    "player": "IA_1",
+    "action": "Moved Unit",
+    "details": "Archer at (5, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 86,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:20:08.740649",
+    "player": "IA_1",
+    "action": "Moved Unit",
+    "details": "Warrior at (4, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 87,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:20:08.829544",
+    "player": "IA_1",
+    "action": "Moved Unit",
+    "details": "Warrior at (3, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 88,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:20:08.953563",
+    "player": "IA_1",
+    "action": "End Turn",
+    "details": "IA_1 ended their turn",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 89,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:20:17.611534",
+    "player": "IA_2",
+    "action": "Generate Unit",
+    "details": "Warrior at (9, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 90,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:20:17.688006",
+    "player": "IA_2",
+    "action": "Attacked",
+    "details": "Archer attacked Archer at (5, 4)",
+    "destinatiare": "Archer"
+  },
+  {
+    "id_action": 91,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:20:17.779943",
+    "player": "IA_2",
+    "action": "Destroyed",
+    "details": "Archer destroyed Archer at (5, 4)",
+    "destinatiare": "Archer"
+  },
+  {
+    "id_action": 92,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:20:17.885534",
+    "player": "IA_2",
+    "action": "Attacked",
+    "details": "Archer attacked Warrior at (6, 5)",
+    "destinatiare": "Warrior"
+  },
+  {
+    "id_action": 93,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:20:17.995144",
+    "player": "IA_2",
+    "action": "Destroyed",
+    "details": "Archer destroyed Warrior at (6, 5)",
+    "destinatiare": "Warrior"
+  },
+  {
+    "id_action": 94,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:20:18.081473",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Warrior at (9, 3)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 95,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:20:18.176122",
+    "player": "IA_2",
+    "action": "End Turn",
+    "details": "IA_2 ended their turn",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 96,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:20:28.408890",
+    "player": "IA_1",
+    "action": "Generate Unit",
+    "details": "Warrior at (2, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 97,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:20:28.487575",
+    "player": "IA_1",
+    "action": "Moved Unit",
+    "details": "Warrior at (6, 5)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 98,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:20:28.592355",
+    "player": "IA_1",
+    "action": "Moved Unit",
+    "details": "Warrior at (5, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 99,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:20:28.709737",
+    "player": "IA_1",
+    "action": "Moved Unit",
+    "details": "Warrior at (4, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 100,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:20:28.799696",
+    "player": "IA_1",
+    "action": "Moved Unit",
+    "details": "Warrior at (3, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 101,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:20:28.900812",
+    "player": "IA_1",
+    "action": "End Turn",
+    "details": "IA_1 ended their turn",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 102,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:20:38.659076",
+    "player": "IA_2",
+    "action": "Generate Unit",
+    "details": "Archer at (9, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 103,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:20:38.741455",
+    "player": "IA_2",
+    "action": "Attacked",
+    "details": "Archer attacked Warrior at (5, 4)",
+    "destinatiare": "Warrior"
+  },
+  {
+    "id_action": 104,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:20:38.839611",
+    "player": "IA_2",
+    "action": "Destroyed",
+    "details": "Archer destroyed Warrior at (5, 4)",
+    "destinatiare": "Warrior"
+  },
+  {
+    "id_action": 105,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:20:38.940584",
+    "player": "IA_2",
+    "action": "Attacked",
+    "details": "Archer attacked Warrior at (6, 5)",
+    "destinatiare": "Warrior"
+  },
+  {
+    "id_action": 106,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:20:39.040443",
+    "player": "IA_2",
+    "action": "Destroyed",
+    "details": "Archer destroyed Warrior at (6, 5)",
+    "destinatiare": "Warrior"
+  },
+  {
+    "id_action": 107,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:20:39.136572",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Warrior at (9, 2)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 108,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:20:39.227788",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Archer at (9, 3)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 109,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:20:39.331864",
+    "player": "IA_2",
+    "action": "End Turn",
+    "details": "IA_2 ended their turn",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 110,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:20:50.685179",
+    "player": "IA_1",
+    "action": "Generate Unit",
+    "details": "Archer at (2, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 111,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:20:50.766968",
+    "player": "IA_1",
+    "action": "Moved Unit",
+    "details": "Warrior at (5, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 112,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:20:50.862954",
+    "player": "IA_1",
+    "action": "Moved Unit",
+    "details": "Warrior at (4, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 113,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:20:50.965403",
+    "player": "IA_1",
+    "action": "Moved Unit",
+    "details": "Archer at (3, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 114,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:20:51.072784",
+    "player": "IA_1",
+    "action": "End Turn",
+    "details": "IA_1 ended their turn",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 115,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:21:01.189162",
+    "player": "IA_2",
+    "action": "Generate Unit",
+    "details": "Warrior at (9, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 116,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:21:01.276212",
+    "player": "IA_2",
+    "action": "Attacked",
+    "details": "Archer attacked Warrior at (5, 4)",
+    "destinatiare": "Warrior"
+  },
+  {
+    "id_action": 117,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:21:01.389833",
+    "player": "IA_2",
+    "action": "Destroyed",
+    "details": "Archer destroyed Warrior at (5, 4)",
+    "destinatiare": "Warrior"
+  },
+  {
+    "id_action": 118,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:21:01.491228",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Archer at (8, 6)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 119,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:21:01.588865",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Archer at (9, 6)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 120,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:21:01.681177",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Warrior at (8, 2)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 121,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:21:01.773526",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Archer at (9, 2)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 122,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:21:01.902361",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Warrior at (9, 5)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 123,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:21:01.995376",
+    "player": "IA_2",
+    "action": "End Turn",
+    "details": "IA_2 ended their turn",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 124,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:22:00.805652",
+    "player": "IA_1",
+    "action": "Generate Unit",
+    "details": "Archer at (2, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 125,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:22:01.316815",
+    "player": "IA_1",
+    "action": "Moved Unit",
+    "details": "Warrior at (5, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 126,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:22:01.755717",
+    "player": "IA_1",
+    "action": "Moved Unit",
+    "details": "Archer at (4, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 127,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:22:02.034535",
+    "player": "IA_1",
+    "action": "Moved Unit",
+    "details": "Archer at (3, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 128,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:22:02.339575",
+    "player": "IA_1",
+    "action": "End Turn",
+    "details": "IA_1 ended their turn",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 129,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:23:00.149271",
+    "player": "IA_2",
+    "action": "Generate Unit",
+    "details": "Warrior at (9, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 130,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:23:00.610040",
+    "player": "IA_2",
+    "action": "Attacked",
+    "details": "Archer attacked Warrior at (5, 4)",
+    "destinatiare": "Warrior"
+  },
+  {
+    "id_action": 131,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:23:00.915426",
+    "player": "IA_2",
+    "action": "Destroyed",
+    "details": "Archer destroyed Warrior at (5, 4)",
+    "destinatiare": "Warrior"
+  },
+  {
+    "id_action": 132,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:23:01.267756",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Archer at (8, 7)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 133,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:23:01.579806",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Archer at (8, 6)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 134,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:23:01.906727",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Warrior at (7, 2)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 135,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:23:02.175878",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Archer at (8, 2)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 136,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:23:02.763840",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Warrior at (9, 6)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 137,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:23:03.021564",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Warrior at (9, 5)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 138,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:23:03.344440",
+    "player": "IA_2",
+    "action": "End Turn",
+    "details": "IA_2 ended their turn",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 139,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:23:35.667826",
+    "player": "IA_1",
+    "action": "Generate Unit",
+    "details": "Archer at (2, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 140,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:23:35.954929",
+    "player": "IA_1",
+    "action": "Attacked",
+    "details": "Archer attacked Warrior at (7, 2)",
+    "destinatiare": "Warrior"
+  },
+  {
+    "id_action": 141,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:23:36.252033",
+    "player": "IA_1",
+    "action": "Destroyed",
+    "details": "Archer destroyed Warrior at (7, 2)",
+    "destinatiare": "Warrior"
+  },
+  {
+    "id_action": 142,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:23:36.554426",
+    "player": "IA_1",
+    "action": "Moved Unit",
+    "details": "Archer at (3, 5)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 143,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:23:36.850941",
+    "player": "IA_1",
+    "action": "Moved Unit",
+    "details": "Archer at (3, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 144,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:23:37.328664",
+    "player": "IA_1",
+    "action": "End Turn",
+    "details": "IA_1 ended their turn",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 145,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:23:59.625474",
+    "player": "IA_2",
+    "action": "Generate Unit",
+    "details": "Warrior at (9, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 146,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:23:59.715390",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Archer at (7, 3)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 147,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:23:59.815308",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Warrior at (8, 3)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 148,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:23:59.930542",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Archer at (7, 7)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 149,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:24:00.081092",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Archer at (8, 7)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 150,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:24:00.194264",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Archer at (7, 2)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 151,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:24:00.335118",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Warrior at (8, 6)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 152,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:24:00.448377",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Warrior at (9, 6)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 153,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:24:00.563875",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Warrior at (8, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 154,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:24:00.692013",
+    "player": "IA_2",
+    "action": "End Turn",
+    "details": "IA_2 ended their turn",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 155,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:24:08.502397",
+    "player": "IA_1",
+    "action": "Generate Unit",
+    "details": "Archer at (2, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 156,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:24:08.594653",
+    "player": "IA_1",
+    "action": "Attacked",
+    "details": "Archer attacked Archer at (7, 2)",
+    "destinatiare": "Archer"
+  },
+  {
+    "id_action": 157,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:24:08.706516",
+    "player": "IA_1",
+    "action": "Destroyed",
+    "details": "Archer destroyed Archer at (7, 2)",
+    "destinatiare": "Archer"
+  },
+  {
+    "id_action": 158,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:24:08.812411",
+    "player": "IA_1",
+    "action": "Moved Unit",
+    "details": "Archer at (4, 5)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 159,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:24:08.911512",
+    "player": "IA_1",
+    "action": "Moved Unit",
+    "details": "Archer at (3, 5)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 160,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:24:09.014257",
+    "player": "IA_1",
+    "action": "Moved Unit",
+    "details": "Archer at (3, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 161,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:24:09.117657",
+    "player": "IA_1",
+    "action": "End Turn",
+    "details": "IA_1 ended their turn",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 162,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:24:15.786910",
+    "player": "IA_2",
+    "action": "Generate Unit",
+    "details": "Archer at (9, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 163,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:24:15.880175",
+    "player": "IA_2",
+    "action": "Attacked",
+    "details": "Archer attacked Archer at (4, 4)",
+    "destinatiare": "Archer"
+  },
+  {
+    "id_action": 164,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:24:15.998968",
+    "player": "IA_2",
+    "action": "Destroyed",
+    "details": "Archer destroyed Archer at (4, 4)",
+    "destinatiare": "Archer"
+  },
+  {
+    "id_action": 165,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:24:16.111204",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Warrior at (8, 2)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 166,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:24:16.221945",
+    "player": "IA_2",
+    "action": "Attacked",
+    "details": "Archer attacked Archer at (4, 5)",
+    "destinatiare": "Archer"
+  },
+  {
+    "id_action": 167,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:24:16.328308",
+    "player": "IA_2",
+    "action": "Destroyed",
+    "details": "Archer destroyed Archer at (4, 5)",
+    "destinatiare": "Archer"
+  },
+  {
+    "id_action": 168,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:24:16.437904",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Archer at (8, 8)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 169,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:24:16.541634",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Warrior at (8, 7)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 170,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:24:16.648343",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Warrior at (8, 6)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 171,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:24:16.752667",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Warrior at (8, 3)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 172,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:24:16.861800",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Archer at (8, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 173,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:24:16.970370",
+    "player": "IA_2",
+    "action": "End Turn",
+    "details": "IA_2 ended their turn",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 174,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:24:28.264053",
+    "player": "IA_1",
+    "action": "Generate Unit",
+    "details": "Archer at (2, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 175,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:24:28.361867",
+    "player": "IA_1",
+    "action": "Moved Unit",
+    "details": "Archer at (4, 5)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 176,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:24:28.478301",
+    "player": "IA_1",
+    "action": "Moved Unit",
+    "details": "Archer at (4, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 177,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:24:28.591366",
+    "player": "IA_1",
+    "action": "Moved Unit",
+    "details": "Archer at (3, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 178,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:24:28.712617",
+    "player": "IA_1",
+    "action": "End Turn",
+    "details": "IA_1 ended their turn",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 179,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:24:38.192513",
+    "player": "IA_2",
+    "action": "Generate Unit",
+    "details": "Warrior at (9, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 180,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:24:38.289866",
+    "player": "IA_2",
+    "action": "Attacked",
+    "details": "Archer attacked Archer at (4, 4)",
+    "destinatiare": "Archer"
+  },
+  {
+    "id_action": 181,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:24:38.454626",
+    "player": "IA_2",
+    "action": "Destroyed",
+    "details": "Archer destroyed Archer at (4, 4)",
+    "destinatiare": "Archer"
+  },
+  {
+    "id_action": 182,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:24:38.575862",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Warrior at (7, 2)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 183,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:24:38.707680",
+    "player": "IA_2",
+    "action": "Attacked",
+    "details": "Archer attacked Archer at (4, 5)",
+    "destinatiare": "Archer"
+  },
+  {
+    "id_action": 184,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:24:38.830635",
+    "player": "IA_2",
+    "action": "Destroyed",
+    "details": "Archer destroyed Archer at (4, 5)",
+    "destinatiare": "Archer"
+  },
+  {
+    "id_action": 185,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:24:38.961077",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Archer at (7, 8)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 186,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:24:39.082117",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Warrior at (8, 8)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 187,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:24:39.208723",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Warrior at (8, 7)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 188,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:24:39.319145",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Warrior at (8, 2)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 189,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:24:39.458215",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Archer at (8, 3)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 190,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:24:39.591743",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Warrior at (8, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 191,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:24:39.702709",
+    "player": "IA_2",
+    "action": "End Turn",
+    "details": "IA_2 ended their turn",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 192,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:24:54.273665",
+    "player": "IA_1",
+    "action": "Generate Unit",
+    "details": "Archer at (2, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 193,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:24:54.377217",
+    "player": "IA_1",
+    "action": "Moved Unit",
+    "details": "Archer at (4, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 194,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:24:54.502944",
+    "player": "IA_1",
+    "action": "Moved Unit",
+    "details": "Archer at (3, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 195,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:24:54.626349",
+    "player": "IA_1",
+    "action": "End Turn",
+    "details": "IA_1 ended their turn",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 196,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:25:07.094356",
+    "player": "IA_2",
+    "action": "Generate Unit",
+    "details": "Archer at (9, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 197,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:25:07.199437",
+    "player": "IA_2",
+    "action": "Attacked",
+    "details": "Archer attacked Archer at (4, 4)",
+    "destinatiare": "Archer"
+  },
+  {
+    "id_action": 198,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:25:07.348136",
+    "player": "IA_2",
+    "action": "Destroyed",
+    "details": "Archer destroyed Archer at (4, 4)",
+    "destinatiare": "Archer"
+  },
+  {
+    "id_action": 199,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:25:07.471827",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Warrior at (6, 2)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 200,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:25:07.588267",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Archer at (6, 7)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 201,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:25:07.715516",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Archer at (6, 8)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 202,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:25:07.839081",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Warrior at (7, 8)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 203,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:25:07.963795",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Warrior at (7, 7)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 204,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:25:08.090725",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Warrior at (7, 2)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 205,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:25:08.225939",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Archer at (8, 2)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 206,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:25:08.344117",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Warrior at (8, 3)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 207,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:25:08.473075",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Archer at (8, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 208,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:25:08.596359",
+    "player": "IA_2",
+    "action": "End Turn",
+    "details": "IA_2 ended their turn",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 209,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:25:25.217416",
+    "player": "IA_1",
+    "action": "Generate Unit",
+    "details": "Archer at (2, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 210,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:25:25.327508",
+    "player": "IA_1",
+    "action": "Attacked",
+    "details": "Archer attacked Warrior at (6, 2)",
+    "destinatiare": "Warrior"
+  },
+  {
+    "id_action": 211,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:25:25.471656",
+    "player": "IA_1",
+    "action": "Destroyed",
+    "details": "Archer destroyed Warrior at (6, 2)",
+    "destinatiare": "Warrior"
+  },
+  {
+    "id_action": 212,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:25:25.594510",
+    "player": "IA_1",
+    "action": "Moved Unit",
+    "details": "Archer at (2, 3)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 213,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:25:25.714198",
+    "player": "IA_1",
+    "action": "End Turn",
+    "details": "IA_1 ended their turn",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 214,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:25:42.808950",
+    "player": "IA_2",
+    "action": "Generate Unit",
+    "details": "Warrior at (9, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 215,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:25:42.919140",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Archer at (6, 3)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 216,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:25:43.043341",
+    "player": "IA_2",
+    "action": "Attacked",
+    "details": "Archer attacked Archer at (3, 4)",
+    "destinatiare": "Archer"
+  },
+  {
+    "id_action": 217,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:25:43.184201",
+    "player": "IA_2",
+    "action": "Destroyed",
+    "details": "Archer destroyed Archer at (3, 4)",
+    "destinatiare": "Archer"
+  },
+  {
+    "id_action": 218,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:25:43.306781",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Archer at (5, 8)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 219,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:25:43.445410",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Warrior at (6, 8)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 220,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:25:43.571219",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Warrior at (7, 8)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 221,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:25:43.700909",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Warrior at (6, 2)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 222,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:25:43.830000",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Archer at (7, 2)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 223,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:25:43.958806",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Warrior at (7, 3)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 224,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:25:44.089176",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Archer at (8, 3)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 225,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:25:44.227793",
+    "player": "IA_2",
+    "action": "Moved Unit",
+    "details": "Warrior at (8, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 226,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:25:44.359847",
+    "player": "IA_2",
+    "action": "End Turn",
+    "details": "IA_2 ended their turn",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 227,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:26:09.001799",
+    "player": "IA_1",
+    "action": "Generate Unit",
+    "details": "Warrior at (2, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 228,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:26:09.120772",
+    "player": "IA_1",
+    "action": "Moved Unit",
+    "details": "Archer at (3, 3)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 229,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:26:09.260699",
+    "player": "IA_1",
+    "action": "Moved Unit",
+    "details": "Warrior at (3, 4)",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 230,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:26:09.410647",
+    "player": "IA_1",
+    "action": "End Turn",
+    "details": "IA_1 ended their turn",
+    "destinatiare": ""
+  },
+  {
+    "id_action": 231,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:26:30.758744",
+    "player": "IA_2",
+    "action": "Attacked",
+    "details": "Archer attacked Archer at (3, 3)",
+    "destinatiare": "Archer"
+  },
+  {
+    "id_action": 232,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:26:30.877877",
+    "player": "IA_2",
+    "action": "Destroyed",
+    "details": "Archer destroyed Archer at (3, 3)",
+    "destinatiare": "Archer"
+  },
+  {
+    "id_action": 233,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:26:31.019973",
+    "player": "IA_2",
+    "action": "Attacked",
+    "details": "Archer attacked Warrior at (3, 4)",
+    "destinatiare": "Warrior"
+  },
+  {
+    "id_action": 234,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:26:31.170936",
+    "player": "IA_2",
+    "action": "Destroyed",
+    "details": "Archer destroyed Warrior at (3, 4)",
+    "destinatiare": "Warrior"
+  },
+  {
+    "id_action": 235,
+    "id_partie": 1744913784,
+    "time": "2025-04-17T20:26:31.305867",
+    "player": "IA_2",
+    "action": "Win",
+    "details": "IA_2 a d\u00e9truit la Townhall ennemie",
+    "destinatiare": ""
+  }
+]

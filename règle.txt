@@ -1,0 +1,40 @@
+===========================
+     REGLES DU JEU
+   CIVILIZATION - TOUR PAR TOUR
+===========================
+
+1. CONFIGURATION DE LA CARTE
+----------------------------
+- Carte : grille de 30x30 cases
+- Types de terrain : plaine, foret, montagne, desert, colline, mer, lac, riviere, etc
+- Ressources : ble, fer, or, chevaux, petrole (reparties aleatoirement)
+
+2. DEBUT DE PARTIE
+------------------
+Chaque joueur commence avec :
+- 1 colon (pour fonder une ville)
+- 1 guerrier (unite militaire de base)
+- 1 technologie de depart (aleatoire ou choisie)
+- 1 position de depart sur la carte (equilibree ou aleatoire)
+
+3. LES VILLES
+-------------
+- Fondees par les colons
+- Produisent :
+  > Production (unites et batiments)
+  > Nourriture (croissance de la ville)
+  > Science (avancement technologique)
+  > Culture (extension des frontieres)
+  > Or (economie)
+- Construction possible :
+  > Unites (militaires et civiles)
+  > Batiments (ameliorent les rendements)
+  > Merveilles (batiments uniques avec bonus puissants)
+
+4. TOURS DE JEU
+---------------
+- Systeme au tour par tour
+- A chaque tour, un joueur peut :
+  > Deplacer ses unites
+  > Gerer ses villes (construction, production, population)
+  > Lancer une recherche scientifique ou culturelle
